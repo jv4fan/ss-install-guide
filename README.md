@@ -1,7 +1,8 @@
 # ss-install-guide
 ## for linux ubuntu
 ### change version to use the latest
-'''sudo wget https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.18.4/shadowsocks-v1.18.4.x86_64-unknown-linux-gnu.tar.xz -O - | sudo tar -xJ -C /usr/local/bin/
+'''shell
+sudo wget https://github.com/shadowsocks/shadowsocks-rust/releases/download/v1.18.4/shadowsocks-v1.18.4.x86_64-unknown-linux-gnu.tar.xz -O - | sudo tar -xJ -C /usr/local/bin/
 
 ### edit or place the json
 '''sudo mkdir -p /etc/shadowsocks
