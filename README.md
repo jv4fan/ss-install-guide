@@ -16,6 +16,7 @@ sudo vim /etc/shadowsocks/config.json
 ```
 sudo vim /etc/systemd/system/shadowsocks.service
 ```
+### something else
 ```
 sudo systemctl daemon-reload #Systemctl reload
 ```
